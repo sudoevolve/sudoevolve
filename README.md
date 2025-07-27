@@ -7,14 +7,12 @@
 ## 🧠 About Me
 
 - 💼 专业方向：网络工程（Network Engineering）
-- 🔐 技术兴趣：Linux、数据库、网络安全
-- 🛠️ 常用工具：Qt / QML、C/C++、React Three Fiber、Unity、KLWP
-- 🖥️ 使用系统：Linux Mint + Windows 双系统
-- 🎨 爱好创作：动态壁纸设计、交互界面开发、美学编程
-
+- 🔐 技术兴趣：Linux、figma、网络安全
+- 🎨 爱好创作：交互界面开发、美学编程
+- 🤯 奇妙想法：痴迷于各种前端动画
 ---
 
-## 🧩 项目亮点
+## 🧩 一些小玩意儿
 
 - 🌌 **EvolveUI**  
   使用 Qt6 + QML 打造的现代组件库，支持暗色模式、图标字体、动画组件与响应式布局，适用于桌面和嵌入式应用。
