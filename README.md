@@ -6,15 +6,17 @@
 
 ## 🧠 About Me
 
-- 💼 专业方向：网络工程（Network Engineering）
-- 🔐 技术兴趣：Linux、figma、网络安全
-- 🎨 爱好创作：交互界面开发、美学编程
-- 🤯 奇妙想法：痴迷于各种前端动画
+- 💼 **专业方向**：网络工程（Network Engineering）  
+- 🔐 **技术兴趣**：Linux、Figma、网络安全  
+- 🎨 **爱好创作**：交互界面开发、美学编程  
+- 🤯 **奇妙想法**：痴迷于各种前端动画  
+
 ---
 
 ## 🧩 一些小玩意儿
-- 🎬 **Eideo · 全能音视频工具**
-使用 Qt6 + QML + FFmpeg 构建的跨平台音视频处理工具。支持屏幕录制、实时推流、无损剪辑、压缩转码、滤镜叠加与 GIF 生成等功能，集成硬件加速并具备美观简洁的 UI 动画交互。
+
+- 🎬 **Eideo · 全能音视频工具**  
+  使用 Qt6 + QML + FFmpeg 构建的跨平台音视频处理工具。支持屏幕录制、实时推流、无损剪辑、压缩转码、滤镜叠加与 GIF 生成等功能，集成硬件加速并具备美观简洁的 UI 动画交互。
 
 - 🌌 **EvolveUI**  
   使用 Qt6 + QML 打造的现代组件库，支持暗色模式、图标字体、动画组件与响应式布局，适用于桌面和嵌入式应用。
@@ -23,10 +25,10 @@
   基于 QML 开发的 Telegram 风格便签应用，支持动态生成、颜色选择器、左侧控制面板与右侧拖动画布，配有响应式布局与动画效果。
 
 - 🖥 **设备信息监控软件**  
-  一个轻量级 Linux 桌面小工具，显示当前时间、CPU 和内存性能指标，并集成了快速启动栏。支持夜间模式切换与界面美化。
+  轻量级 Linux 桌面工具，显示时间、CPU、内存性能指标，并集成快速启动栏。支持夜间模式切换与界面美化。
 
 - 📊 **手写数据训练工具**  
-  自研的手写数据采集系统，支持导出 MNIST 格式数据，兼容 TensorFlow、PyTorch 等主流机器学习框架，用于模型训练。
+  自研手写数据采集系统，支持导出 MNIST 格式数据，兼容 TensorFlow、PyTorch 等主流机器学习框架，用于模型训练。
 
 ---
 
@@ -47,6 +49,7 @@
   <img src="https://img.shields.io/badge/QML-41CD52?style=flat&logo=qt&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/>
 </p>
 
 ### 🛠️ 跨平台 & 框架
@@ -77,6 +80,8 @@
 
 - 📮 邮箱：sudoevolve@gmail.com  
 - 🧭 GitHub：[@SudoEvolve](https://github.com/sudoevolve)  
+
 ---
 
-希望我们在开源的世界中不期而遇！
+希望我们在开源的世界中不期而遇！  
+
