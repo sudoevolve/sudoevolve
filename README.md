@@ -5,7 +5,7 @@ C++ / OpenGL / Qt developer focused on:
 - Smooth animations
 - High-performance desktop software
 
-I build clean and practical applications using C++, OpenGL, Qt, and FFmpeg.
+I build clean and practical applications using C++, OpenGL, Qt, FFmpeg, and Python.
 
 ---
 
@@ -17,6 +17,7 @@ I build clean and practical applications using C++, OpenGL, Qt, and FFmpeg.
   <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white"/>
   <img src="https://img.shields.io/badge/QML-00B4CC?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
@@ -34,11 +35,15 @@ I build clean and practical applications using C++, OpenGL, Qt, and FFmpeg.
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sudoevolve&show_icons=true)
+<p>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sudoevolve&show_icons=true&include_all_commits=true&count_private=true"/>
+  
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudoevolve&layout=compact&langs_count=8"/>
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sudoevolve&layout=compact)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=sudoevolve)
+<p>
+  <img src="https://streak-stats.demolab.com?user=sudoevolve"/>
+</p>
 
 ---
 
