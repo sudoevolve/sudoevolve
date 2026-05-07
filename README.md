@@ -1,87 +1,81 @@
 # Hi, I'm Sudo Evolve 👋
 
-I build **custom Qt / QML desktop applications** with a strong focus on  
-**modern UI, smooth animations, and performance-oriented design**.
+C++ / OpenGL / Qt developer focused on:
+- Modern UI
+- Smooth animations
+- High-performance desktop software
 
-I enjoy turning complex technical ideas into clean, usable tools.
-
----
-
-## 🔧 What I Do
-
-- Qt / QML desktop application development (Qt 6)
-- Custom UI components & animation systems
-- FFmpeg-based media processing tools
-- Lightweight, controllable alternatives to QtQuick.Controls
-- Linux / Windows desktop software
+I build clean and practical applications using C++, OpenGL, Qt, and FFmpeg.
 
 ---
 
-## 🧠 Tech Stack
+## 🔧 Tech Stack
 
-- **Languages:** C++, QML, JavaScript  
-- **Frameworks:** Qt 6, QtQuick  
-- **Media:** FFmpeg  
-- **Platforms:** Linux, Windows  
-- **Focus:** UI architecture, animation, performance, maintainability
-
----
-
-## ⭐ Featured Projects
-
-### 🎨 QML UI Component Library
-A modern, reusable QML component library with:
-- Custom shadows & animations  
-- Theme-aware color system  
-- Clean structure and consistent style  
-
-👉 Ideal for commercial desktop applications  
-🔗 https://github.com/sudoevolve
+- C++
+- OpenGL
+- Qt / QML
+- JavaScript
+- FFmpeg
+- Linux / Windows / macOS
 
 ---
 
-### 🎥 Desktop Media Tools
-Qt + FFmpeg based experiments and tools for:
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sudoevolve&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sudoevolve&layout=compact)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=sudoevolve)
+
+---
+
+## 🖥 Focus Areas
+
+- Desktop application development
+- Rendering & graphics systems
+- Animation & interaction design
+- Performance-oriented architecture
+- Lightweight UI systems
+- Media processing tools
+
+---
+
+## ⭐ Projects
+
+### 🎨 UI & Graphics Systems
+Modern desktop interfaces featuring:
+- Custom rendering
+- Smooth animations
+- Theme systems
+- Reusable architecture
+
+### 🎥 Media & Desktop Tools
+Tools and experiments involving:
 - Screen recording
-- Media pipelines
-- Audio / video synchronization  
+- Media processing
+- Audio/video synchronization
 
-Focused on **practical desktop use**, not demos.
-
----
-
-### 🖥 System & Utility Projects
-Small but focused tools exploring:
-- Desktop workflows
-- Performance-sensitive logic
-- Clean Qt project structure
+### ⚡ Performance-Focused Utilities
+Focused applications exploring:
+- Efficient architecture
+- Clean project structure
+- Practical desktop workflows
 
 ---
 
-## 💼 Commercial & Freelance
+## 💼 Available For
 
-I’m available for:
-- Custom Qt / QML application development
-- UI/UX refinement & animation design
-- FFmpeg integration and media tooling
+- C++ / OpenGL development
+- Desktop application development
+- UI/UX refinement
+- Animation systems
+- FFmpeg integration
 - Feature implementation & consulting
 
-If you have an existing project that works but **needs better UI, structure, or performance**, I can help.
-
-📧 **Contact:** sudoevolve@gmail.com
-
 ---
 
-## 🌍 Open Source
+## 📫 Contact
 
-I enjoy building open-source tools and libraries,  
-and I’m open to **commercial support, customization, and long-term collaboration**.
-
-Feel free to reach out if you want to:
-- Extend an existing project
-- Integrate my work into your product
-- Discuss a custom solution
-
----
-
-Thanks for visiting 👋
+- Email: sudoevolve@gmail.com
+- GitHub: https://github.com/sudoevolve
