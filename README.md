@@ -11,12 +11,24 @@ I build clean and practical applications using C++, OpenGL, Qt, and FFmpeg.
 
 ## 🔧 Tech Stack
 
-- C++
-- OpenGL
-- Qt / QML
-- JavaScript
-- FFmpeg
-- Linux / Windows / macOS
+<p>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white"/>
+  <img src="https://img.shields.io/badge/QML-00B4CC?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
+
+---
+
+## 🖥 Platforms
+
+<p>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+  <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white"/>
+</p>
 
 ---
 
@@ -38,29 +50,6 @@ I build clean and practical applications using C++, OpenGL, Qt, and FFmpeg.
 - Performance-oriented architecture
 - Lightweight UI systems
 - Media processing tools
-
----
-
-## ⭐ Projects
-
-### 🎨 UI & Graphics Systems
-Modern desktop interfaces featuring:
-- Custom rendering
-- Smooth animations
-- Theme systems
-- Reusable architecture
-
-### 🎥 Media & Desktop Tools
-Tools and experiments involving:
-- Screen recording
-- Media processing
-- Audio/video synchronization
-
-### ⚡ Performance-Focused Utilities
-Focused applications exploring:
-- Efficient architecture
-- Clean project structure
-- Practical desktop workflows
 
 ---
 
