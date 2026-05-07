@@ -33,16 +33,20 @@ I build clean and practical applications using C++, OpenGL, Qt, FFmpeg, and Pyth
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
-<p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sudoevolve&show_icons=true&include_all_commits=true&count_private=true"/>
+<p align="center">
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=sudoevolve&theme=dark"/>
   
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudoevolve&layout=compact&langs_count=8"/>
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sudoevolve&theme=github_dark"/>
 </p>
 
-<p>
-  <img src="https://streak-stats.demolab.com?user=sudoevolve"/>
+<p align="center">
+  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sudoevolve&theme=github_dark"/>
+</p>
+
+<p align="center">
+  <img width="98%" src="https://github-profile-trophy.vercel.app/?username=sudoevolve&theme=darkhub&no-frame=true&row=1"/>
 </p>
 
 ---
