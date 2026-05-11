@@ -71,23 +71,12 @@
 <div align="center">
 
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sudoevolve&theme=github_dark" alt="GitHub stats" />
-<img width="49%" src="https://streak-stats.demolab.com?user=sudoevolve&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
-
-<br />
-<br />
-
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sudoevolve&theme=github_dark" alt="Top languages" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sudoevolve&theme=github_dark&utcOffset=8" alt="Productive time" />
 
 <br />
 <br />
 
 <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sudoevolve&theme=github_dark" alt="Profile details" />
-
-<br />
-<br />
-
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=sudoevolve&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Contribution graph" />
 
 </div>
 
